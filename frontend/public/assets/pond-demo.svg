@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-labelledby="title description">
+  <title id="title">合成池塘示意</title>
+  <desc id="description">为公开源码绘制的静态几何示意，不是真实照片、摄像头画面或鱼病证据。</desc>
+  <rect width="960" height="540" fill="#eceee6"/>
+  <rect x="65" y="65" width="830" height="410" rx="70" fill="#cbd5c5"/>
+  <rect x="90" y="90" width="780" height="360" rx="52" fill="#9abdc0"/>
+  <g fill="none" stroke="#c9dddd" stroke-width="5" stroke-linecap="round">
+    <path d="M150 175q70-22 140 0t140 0t140 0t140 0t100 0"/>
+    <path d="M140 265q70-22 140 0t140 0t140 0t140 0t100 0"/>
+    <path d="M150 355q70-22 140 0t140 0t140 0t140 0t100 0"/>
+  </g>
+  <g fill="#547a7d" opacity=".85">
+    <ellipse cx="270" cy="230" rx="45" ry="17"/><path d="m225 230-28-22v44z"/>
+    <ellipse cx="610" cy="310" rx="51" ry="20"/><path d="m661 310 32-25v50z"/>
+    <ellipse cx="505" cy="160" rx="33" ry="13"/><path d="m472 160-22-18v36z"/>
+  </g>
+  <rect x="246" y="465" width="468" height="52" rx="12" fill="#f9faf6"/>
+  <text x="480" y="499" text-anchor="middle" font-family="system-ui,sans-serif" font-size="21" fill="#46534b">合成静态示意 · 非真实摄像头画面</text>
+</svg>

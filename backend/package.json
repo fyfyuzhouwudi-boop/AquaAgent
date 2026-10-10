@@ -1,0 +1,7 @@
+{
+  "name": "fool-fish-local-agents",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.12" },
+  "scripts": { "start": "node server.js", "test": "node --test tests/*.test.js" }
+}
